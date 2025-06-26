@@ -37,4 +37,6 @@ By completing this project, learners gain practical experience in:
 In conclusion, the Stock Price Predictor project provides a strong foundation in financial data analysis and predictive modeling. While it may not offer accurate long-term predictions due to market complexity, it sets the stage for future improvements using more advanced techniques such as polynomial regression, support vector machines, recurrent neural networks (RNNs), or LSTM models.
 
 # OUTPUT
+<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/ae87af4d-c2cf-42d7-b5d7-91f01370e4bb" />
 
+![Image](https://github.com/user-attachments/assets/fe93ce1b-3c77-4ca5-8eea-91f5f29ef188)
